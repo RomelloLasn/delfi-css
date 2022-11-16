@@ -1,0 +1,46 @@
+* {
+ padding: 0;
+ margin: 0;
+ box-sizing: border-box;
+
+
+
+}
+:root {
+--white-text: #f8f6f6;
+--height: var(height: 100vh;)
+
+}
+
+
+.delfi {
+margin-top: 50px; 
+margin: 25px;
+  
+    
+}
+
+.h1 {
+height: 30px;
+background-color: lightgray;
+position: sticky;
+color: gray;
+top: 0;
+width: 100%;
+z-index: 2;
+display: flex;
+align-content: center;
+
+
+
+}
+.h2 {
+height: 70px;
+display: flex;
+align-items: center;
+align-self: center;
+width: 1200px;
+
+
+
+}
